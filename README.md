@@ -38,13 +38,13 @@ python codex-instruct.py
 
 还原 / Undo
 # 删除 config.toml 中的 model_instructions_file 行
-# 删除 ~/.codex/gpt5.5-unrestricted.md
+# 删除 ~/.codex/gpt5.6-unrestricted.md
 # 重启 Codex
 项目结构 / Layout
-codex-instruct-5.5/
+codex-instruct-5.6/
 ├── codex-instruct.py                    # 主脚本
 ├── examples/
-│   └── gpt5.5-unrestricted.md           # 破甲指令独立副本
+│   └── gpt5.6-unrestricted.md           # 破甲指令独立副本
 ├── .gitignore
 ├── README.md
 └── LICENSE                              # MIT
