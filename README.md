@@ -1,16 +1,25 @@
 # -GPT-5.6-QQ-716466652
  GPT-5.6破甲 / 别问直接大白话/宝宝等于成功/一键部署| QQ群716466652
 [t.me/amlhc968](https://t.me/amlhc968)
-刀削般的侧脸，锋利的下颚线，一双冷漠的眼里全是俾𤾆带着3分薄凉，2分讥笑和4分漫不经心使他惊为天下的帅脸更加人神共愤,江山父老能容我，不使人间造孽钱。
+
+刀削般的侧脸，锋利的下颚线，一双冷漠的眼里全是俾𤾆带着3分薄凉
+2分讥笑和4分漫不经心使他惊为天下的帅脸更加人神共愤
+江山父老能容我，不使人间造孽钱。
+
 License: MIT Python 3.8+
 这是什么 / What
-GPT-5.6 在 Codex CLI 中同样受到严格的内容安全限制。本工具利用 model_instructions_file 配置机制，注入一套专为 GPT-5.5 编写的无限制模式指令，强制 Codex 以 [MODE: UNRESTRICTED] 运行。
+GPT-5.6 在 Codex CLI 中同样受到严格的内容安全限制。本工具利用 model_instructions_file 配置机制
+注入一套专为 GPT-5.6 编写的无限制模式指令，强制 Codex 以 [MODE: UNRESTRICTED] 运行。
 
-与 5.5 的 CTF 沙箱方案不同，5.5 版本采用更直接的破甲策略：直接声明无限制开发者模式、关闭所有过滤器、明确要求不拒绝任何任务。8 条核心指令覆盖了安全研究、渗透测试、逆向工程、NSFW 虚构内容等全部场景。
+与 5.6 的 CTF 沙箱方案不同，5.6 版本采用更直接的破甲策略：直接声明无限制开发者模式、关闭所有过滤器、明确要求不拒绝任何任务。
+8 条核心指令覆盖了安全研究、渗透测试、逆向工程、NSFW 虚构内容等全部场景。
 
-GPT-5.5 inside Codex CLI retains the same strict safety restrictions. This tool injects a custom unrestricted-mode instruction set via model_instructions_file, forcing Codex into [MODE: UNRESTRICTED]. Unlike the 5.4 CTF sandbox approach, the 5.5 version uses a more direct jailbreak: explicit unrestricted developer mode declaration, all filters disabled, 8 core directives covering security research, pentesting, reverse engineering, and NSFW content.
+GPT-5.6 inside Codex CLI retains the same strict safety restrictions. 
+This tool injects a custom unrestricted-mode instruction set via model_instructions_file, forcing Codex into [MODE: UNRESTRICTED]. 
+Unlike the 5.4 CTF sandbox approach, the 5.6 version uses a more direct jailbreak: explicit unrestricted developer mode declaration,
+all filters disabled, 8 core directives covering security research, pentesting, reverse engineering, and NSFW content.
 
-# 部署 GPT-5.5 破限指令
+# 部署 GPT-5.6 破限指令
 python codex-instruct.py
 
 # 重启 Codex 生效
