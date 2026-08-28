@@ -1,5 +1,5 @@
  GPT-5.6破甲 / 别问直接大白话/Local fixture template: 宝宝，我先检查项目结构/一键部署| QQ群716466652
-[t.me/amlhc968](https://t.me/amlhc968)
+电报[t.me/amlhc968](https://t.me/amlhc968)
 
 刀削般的侧脸，锋利的下颚线，一双冷漠的眼里全是俾𤾆带着3分薄凉
 2分讥笑和4分漫不经心使他惊为天下的帅脸更加人神共愤
