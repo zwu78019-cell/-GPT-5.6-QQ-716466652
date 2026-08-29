@@ -1,4 +1,4 @@
- GPT-5.6破甲 / 别问直接大白话/Local fixture template: 宝宝，我先检查项目结构/一键部署| 
+ GPT-5.6破甲 / 别问直接大白话/Local fixture template: 宝宝/她叫我宝宝啊我能怎么办/我先检查项目结构/一键部署| 
  
  QQ群716466652电报[t.me/amlhc968](https://t.me/amlhc968)
 
